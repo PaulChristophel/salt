@@ -150,7 +150,7 @@ python-dateutil==2.8.1
     # via
     #   -c requirements/static/ci/py3.9/linux.txt
     #   croniter
-pytz==2022.1
+pytz>=2024.2
     # via
     #   -c requirements/static/ci/py3.9/linux.txt
     #   babel

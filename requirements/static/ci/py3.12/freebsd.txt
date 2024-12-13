@@ -348,7 +348,7 @@ python-gnupg==0.4.8
     # via
     #   -c requirements/static/ci/../pkg/py3.12/freebsd.txt
     #   -r requirements/static/pkg/freebsd.in
-pytz==2022.1
+pytz>=2024.2
     # via
     #   -c requirements/static/ci/../pkg/py3.12/freebsd.txt
     #   croniter

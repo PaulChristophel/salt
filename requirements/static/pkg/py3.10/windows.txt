@@ -97,7 +97,7 @@ python-gnupg==0.4.8
     # via -r requirements/windows.txt
 pythonnet==3.0.1
     # via -r requirements/windows.txt
-pytz==2022.1
+pytz>=2024.2
     # via tempora
 pywin32==305
     # via
